@@ -6,5 +6,5 @@ index.replyMessage(MESSAGE_DATA, {}, (error, response) => {
 
   if (error === null) console.log(response)
   else console.log(error)
-  
+
 })
